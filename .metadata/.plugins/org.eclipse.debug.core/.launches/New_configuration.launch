@@ -10,13 +10,13 @@
 <stringAttribute key="com.android.ide.eclipse.adt.target" value="AUTO"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.wipedata" value="false"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Latihan5"/>
-<listEntry value="/Latihan5/AndroidManifest.xml"/>
+<listEntry value="/Latihan7"/>
+<listEntry value="/Latihan7/AndroidManifest.xml"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
 <listEntry value="1"/>
 </listAttribute>
 <booleanAttribute key="org.eclipse.jdt.launching.ALLOW_TERMINATE" value="true"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Latihan5"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Latihan7"/>
 </launchConfiguration>
